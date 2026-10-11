@@ -1,17 +1,6 @@
 # Venue Vendors 
 The Venue Vendors Application allows hirers to browse venues, make bookings, upload compliance documents, manage their bookings, etc. Vendors can create and manage venues, review applicants and bookings, assess compliance documents and approve or reject bookings. 
 
-## Team Information
-
-### Number
-40 
-
-### Members
-| Name | Student Number | Role |
-|---------|---------|---------|
-| Vanessa Smith    | s4091675 | Frontend and Backend Developer |
-| Nicholas Egerton | s4180466 | Frontend and Backend Developer |
-
 ## Installation 
 
 ### Clone Repository
@@ -149,15 +138,6 @@ NEXT_PUBLIC_GRAPHQL_URL=http://localhost:3008/graphql
 - Git & GitHub – Version control and team collaboration.
 - Postman - Debugging and Testing.
 
-## Testing Accounts Used 
-| Email | Password | Role |
-|---------|---------|---------|
-| nicholasTesting@gmail.com | Nikolakao27! | Vendor |
-| vanessaTesting@gmail.com | Nikolakao27! | Hirer |
-| julia@gmail.com | Nikolakao27! | Hirer |
-| dipto@gmail.com | Nikolakao27! | Hirer |
-| michael@gmail.com | Nikolakao27! | Vendor |
-
 ## Deployment
 Find the links to our 4 apps deployed on render (free version)
 
@@ -175,17 +155,6 @@ https://venue-vendors-admin-frontend-0pwh.onrender.com
 
 ## Group References
 
-### Course Materials (RMIT Full Stack Development 2026)
-
-- Assessment 1 Specification – Venue Vendors system requirements.
-- Assessment 2 Specification – Database integration and analytics requirements.
-- Assessment 2 Submission - Base Code and overall structures
-- Assessment 3 Individual Programming Test 
-- Weeks 1 - 8 Lectures and Labs
-- Week 9 - Labs
-- Week 10 - Labs
-- Week 11 Lab - GraphQL and Form Validation
-- Week 12 Lectorial - Website Deployment 
 ### External References
 - React Documentation: https://react.dev/
 - Next.js Documentation: https://nextjs.org/docs=
